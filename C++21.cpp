@@ -29,7 +29,7 @@ class Operations
         int sub(int a,int b);
 };
 
-int Operations :: sum(int a1,int b1){
+int Operations :: sum(int a1,int b1){ // :: - Scope Resolution Operator
     return a1+b1;
 }
 
