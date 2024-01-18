@@ -17,7 +17,7 @@ class Employee {
             cout<<"The id of this employee is "<<id<<" and this the epmployee number : "<<count<<endl;
         }
         static void getCount(void) {
-            cout<<"The value of count is "<<count<<endl;
+            cout<<"The value of count is "<<count<<endl; // static variables can be accessed.
         }
 
 };
