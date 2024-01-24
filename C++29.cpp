@@ -17,7 +17,7 @@ class Complex {
     }
 };
 
-Complex :: Complex(void) {  // Default Constructor as it takes no parameter.
+Complex :: Complex(void) {  // Default Constructor as it accepts no parameter.
     a=10;
     b=5;
 }
