@@ -1,3 +1,4 @@
+//Contructor in derived classs
 #include <iostream>
 using namespace std;
 
